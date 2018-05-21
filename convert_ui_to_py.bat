@@ -1,0 +1,1 @@
+pyuic5 interface.ui -o interface_n6705b.py
